@@ -1,0 +1,43 @@
+skill,category,aliases
+Python,Programming,python|python3
+Java,Programming,java
+C++,Programming,c++
+C#,Programming,c#|c sharp
+.NET,Programming,.net|dotnet
+JavaScript,Programming,javascript|js
+SQL,Databases,sql|mysql|postgresql|sqlite
+Excel,Analytics,excel|microsoft excel
+Pandas,Data Analysis,pandas
+NumPy,Data Analysis,numpy
+Power BI,Analytics,power bi|powerbi
+Tableau,Analytics,tableau
+Machine Learning,Machine Learning,machine learning|ml
+scikit-learn,Machine Learning,scikit-learn|sklearn
+TensorFlow,Machine Learning,tensorflow
+PyTorch,Machine Learning,pytorch
+Deep Learning,Machine Learning,deep learning
+NLP,AI,nlp|natural language processing
+Transformers,AI,transformers
+Hugging Face,AI,hugging face
+LLM,AI,llm|large language model|large language models
+RAG,AI,rag|retrieval augmented generation
+OpenCV,Computer Vision,opencv|open cv
+CNN,Computer Vision,cnn|convolutional neural network
+YOLO,Computer Vision,yolo
+FastAPI,Web and APIs,fastapi
+Flask,Web and APIs,flask
+APIs,Web and APIs,api|apis|rest api|rest apis
+Docker,Cloud and DevOps,docker
+Kubernetes,Cloud and DevOps,kubernetes|k8s
+Cloud,Cloud and DevOps,cloud|aws|azure|gcp
+MLflow,Machine Learning,mlflow
+Git,Tools,git|github
+Linux,Tools,linux
+HTML,Web Development,html
+CSS,Web Development,css
+Streamlit,Web Development,streamlit
+Matplotlib,Data Visualization,matplotlib
+Plotly,Data Visualization,plotly
+Statistics,Analytics,statistics|statistical analysis
+Data Analysis,Analytics,data analysis|data analytics
+Data Visualization,Analytics,data visualization|data visualisation
